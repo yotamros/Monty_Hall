@@ -7,7 +7,6 @@
  */
 
 import java.util.Random;
-
 public class threeDoor {
     public static void main(String[] args) {
         threeDoor td = new threeDoor();
